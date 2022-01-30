@@ -1,0 +1,30 @@
+C:\Users\yaser\Desktop\myproje\myproje\bin\Debug\myproje.exe.config
+C:\Users\yaser\Desktop\myproje\myproje\bin\Debug\myproje.exe
+C:\Users\yaser\Desktop\myproje\myproje\bin\Debug\myproje.pdb
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.csprojAssemblyReference.cache
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.Form1.resources
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.Properties.Resources.resources
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.csproj.GenerateResource.cache
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.csproj.CoreCompileInputs.cache
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.exe
+C:\Users\yaser\Desktop\myproje\myproje\obj\Debug\myproje.pdb
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\bin\Debug\myproje.exe.config
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\bin\Debug\myproje.exe
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\bin\Debug\myproje.pdb
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.csprojAssemblyReference.cache
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.Form1.resources
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.Properties.Resources.resources
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.csproj.GenerateResource.cache
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.csproj.CoreCompileInputs.cache
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.exe
+E:\projeler + rapolar\myproje yaptığım bir proje\myproje\obj\Debug\myproje.pdb
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\bin\Debug\myproje.exe.config
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\bin\Debug\myproje.exe
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\bin\Debug\myproje.pdb
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.csprojAssemblyReference.cache
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.Form1.resources
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.Properties.Resources.resources
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.csproj.GenerateResource.cache
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.csproj.CoreCompileInputs.cache
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.exe
+E:\projeler + rapolar\myproje yaptığım bir proje\Yeni klasör\myproje\obj\Debug\myproje.pdb
